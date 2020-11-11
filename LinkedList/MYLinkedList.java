@@ -1,6 +1,6 @@
 package LinkedList;
 
-public class MYLinkedList {
+public class MyLinkedList {
 
 }
 
